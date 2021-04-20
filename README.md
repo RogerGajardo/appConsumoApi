@@ -22,3 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 "react-router-dom": "^5.2.0",
 "react-scripts": "4.0.3",
 
+
+Necesita apiRestTuten para funcionar 
+
